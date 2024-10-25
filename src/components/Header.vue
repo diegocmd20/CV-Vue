@@ -23,7 +23,7 @@
                         <router-link to="/" class="nav-link">Emariana Cohen</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/" class="nav-link">Samuel Bustamante</router-link>
+                        <router-link to="/samuelBS" class="nav-link">Samuel Bustamante</router-link>
                     </li>
                 </ul>
             </div>
