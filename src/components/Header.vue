@@ -14,7 +14,7 @@
                         <router-link to="/diego-moran" class="nav-link">Diego Moran</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/" class="nav-link">javier Rojas</router-link>
+                        <router-link to="/javier-cv" class="nav-link">javier Rojas</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link to="/" class="nav-link">Diego Palma</router-link>
