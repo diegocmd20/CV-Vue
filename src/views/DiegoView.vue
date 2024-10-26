@@ -51,47 +51,41 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-12">
-                <section>
-                    <h2>Experiencia Laboral</h2>
-                    <ul>
-                        <h3>ReDecora - Asistente de Marketplaces</h3>
-                        <h4><i>Marzo 2024 - Presente</i></h4>
-                        <ul>
-                            <li>Publicación de Productos</li>
-                            <li>Servcio al Cliente</li>
-                            <li>Gestión de Inventario</li>
-                            <li>Astroselling</li>
-                            <li>Shopify</li>
-                            <li>Falabella Seller Center</li>
-                            <li>Paris Marketplace</li>
-                            <li>SEO</li>
-                        </ul>
-                        <h3>Caribean Pharma - Operador Logístico</h3>
-                        <h4><i>Julio 2023 - Enero 2024</i></h4>
-                        <ul>
-                            <li>Gestión de Inventario</li>
-                            <li>Manejo de Yale</li>
-                            <li>Atención al Cliente</li>
-                        </ul>
-                    </ul>
-                </section>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <section>
+                        <h2>Experiencia Laboral</h2>
+                        <div class="row">
+                            <div class="col-12 col-md-6">
+                                <h3>Asistente de Marketplaces</h3>
+                                <h4><i>Marzo 2024 - Presente</i></h4>
+                                <ul>
+                                    <li>Publicación de Productos</li>
+                                    <li>Servcio al Cliente</li>
+                                    <li>Gestión de Inventario</li>
+                                    <li>Astroselling</li>
+                                    <li>Shopify</li>
+                                    <li>Falabella Seller Center</li>
+                                    <li>Paris Marketplace</li>
+                                    <li>SEO</li>
+                                </ul>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <h3>Operador Logístico</h3>
+                                <h4><i>Julio 2023 - Enero 2024</i></h4>
+                                <ul>
+                                    <li>Gestión de Inventario</li>
+                                    <li>Manejo de Yale</li>
+                                    <li>Atención al Cliente</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+                </div>
             </div>
         </div>
     </div>
-
-    <div class="container">
-        <h2>Hablemos</h2>
-        <form>
-            <label for="email">Deja tu e-mail</label>
-            <input type="email" id="email" name="email">
-        </form>
-        <footer>
-            <p><u>Diego Moran 2024. Todos los derechos reservados</u></p>
-        </footer>
-    </div>
-
 </template>
 
 <script>
