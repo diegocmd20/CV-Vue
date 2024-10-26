@@ -11,7 +11,7 @@
                         <router-link to="/" class="nav-link">Home</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/" class="nav-link">Diego Moran</router-link>
+                        <router-link to="/diego-moran" class="nav-link">Diego Moran</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link to="/" class="nav-link">javier Rojas</router-link>
